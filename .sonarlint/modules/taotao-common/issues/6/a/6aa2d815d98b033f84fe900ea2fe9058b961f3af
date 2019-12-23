@@ -1,0 +1,22 @@
+
+asquid:S2864#"4Iterate over the "entrySet" instead of the "keySet".(÷¤ÄòHÜRMAJORZ
+CODE_SMELL
+asquid:S2864P"4Iterate over the "entrySet" instead of the "keySet".(÷¤ÄòHİRMAJORZ
+CODE_SMELL
+ysquid:S2095"QUse try-with-resources or close this "CloseableHttpClient" in a "finally" clause.(™ıÄ“HŞRBLOCKERZBUG
+ysquid:S2095G"QUse try-with-resources or close this "CloseableHttpClient" in a "finally" clause.(ıê”ÊHßRBLOCKERZBUG
+ysquid:S2095n"QUse try-with-resources or close this "CloseableHttpClient" in a "finally" clause.(ıê”ÊHàRBLOCKERZBUG
+csquid:S1135`"2Complete the task associated to this TODO comment.(ÕÌ®şÿÿÿÿHáRINFOZ
+CODE_SMELL
+dsquid:S1135€"2Complete the task associated to this TODO comment.(ÕÌ®şÿÿÿÿHâRINFOZ
+CODE_SMELL
+gsquid:S1118":Add a private constructor to hide the implicit public one.(…ÎÒÌHãRMAJORZ
+CODE_SMELL
+lsquid:S2259~"FA "NullPointerException" could be thrown; "response" is nullable here.(Âì“¡HäRMAJORZBUG
+lsquid:S2259^"FA "NullPointerException" could be thrown; "response" is nullable here.(Âì“¡HåRMAJORZBUG
+Xsquid:S11483"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿHæRMINORZVULNERABILITY
+Xsquid:S1148;"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿHçRMINORZVULNERABILITY
+Xsquid:S1148["#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿHèRMINORZVULNERABILITY
+Xsquid:S1148a"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿHéRMINORZVULNERABILITY
+Xsquid:S1148{"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿHêRMINORZVULNERABILITY
+Ysquid:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿHëRMINORZVULNERABILITY

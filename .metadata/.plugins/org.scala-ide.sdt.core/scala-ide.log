@@ -1,0 +1,28 @@
+2019-04-12 14:30:49,555 ERROR [Worker-6] - System.err - log4j:WARN No appenders could be found for logger (org.eclipse.xtext.ui.internal.Activator).
+2019-04-12 14:30:49,558 ERROR [Worker-6] - System.err - log4j:WARN Please initialize the log4j system properly.
+2019-11-20 21:39:30,748 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - log4j:WARN No appenders could be found for logger (org.eclipse.xtext.ui.internal.Activator).
+2019-11-20 21:39:30,748 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - log4j:WARN Please initialize the log4j system properly.
+2019-11-20 22:16:10,882 ERROR [Worker-1] - System.err - log4j:WARN No appenders could be found for logger (org.eclipse.xtext.ui.internal.Activator).
+2019-11-20 22:16:10,898 ERROR [Worker-1] - System.err - log4j:WARN Please initialize the log4j system properly.
+2019-11-21 10:53:02,248 ERROR [main] - System.err - [Fatal Error] :1:1: 前言中不允许有内容。
+2019-11-21 10:53:22,721 ERROR [Worker-1] - System.err - [Fatal Error] :1:1: 前言中不允许有内容。
+2019-11-21 10:53:34,309 ERROR [Worker-0] - System.err - log4j:WARN No appenders could be found for logger (org.eclipse.xtext.ui.internal.Activator).
+2019-11-21 10:53:34,310 ERROR [Worker-0] - System.err - log4j:WARN Please initialize the log4j system properly.
+2019-11-21 10:53:39,159 ERROR [Framework stop] - System.err - [Fatal Error] :1:1: 前言中不允许有内容。
+2019-11-21 15:31:44,026 ERROR [Worker-2] - System.err - log4j:WARN No appenders could be found for logger (org.eclipse.xtext.ui.internal.Activator).
+2019-11-21 15:31:44,048 ERROR [Worker-2] - System.err - log4j:WARN Please initialize the log4j system properly.
+2019-11-21 15:45:41,409 ERROR [main] - System.err - [Fatal Error] :1:1: 前言中不允许有内容。
+2019-11-22 14:09:32,739 ERROR [Worker-4] - System.err - log4j:WARN No appenders could be found for logger (org.eclipse.xtext.ui.internal.Activator).
+2019-11-22 14:09:32,767 ERROR [Worker-4] - System.err - log4j:WARN Please initialize the log4j system properly.
+2019-11-22 14:44:45,449 ERROR [Worker-0] - System.err - log4j:WARN No appenders could be found for logger (org.eclipse.xtext.ui.internal.Activator).
+2019-11-22 14:44:45,451 ERROR [Worker-0] - System.err - log4j:WARN Please initialize the log4j system properly.
+2019-11-22 21:18:03,431 ERROR [Worker-10] - System.err - log4j:WARN No appenders could be found for logger (org.eclipse.xtext.ui.internal.Activator).
+2019-11-22 21:18:03,446 ERROR [Worker-10] - System.err - log4j:WARN Please initialize the log4j system properly.
+2019-11-23 22:50:57,750 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - log4j:WARN No appenders could be found for logger (org.eclipse.xtext.ui.internal.Activator).
+2019-11-23 22:50:57,813 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - log4j:WARN Please initialize the log4j system properly.
+2019-11-24 16:08:15,446 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - log4j:WARN No appenders could be found for logger (org.eclipse.xtext.ui.internal.Activator).
+2019-11-24 16:08:15,649 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - log4j:WARN Please initialize the log4j system properly.
+2019-11-25 10:45:59,116 ERROR [Worker-2] - System.err - log4j:WARN No appenders could be found for logger (org.eclipse.xtext.ui.internal.Activator).
+2019-11-25 10:45:59,144 ERROR [Worker-2] - System.err - log4j:WARN Please initialize the log4j system properly.
+2019-12-23 17:08:27,985 ERROR [Worker-4] - System.err - log4j:WARN No appenders could be found for logger (org.eclipse.xtext.ui.internal.Activator).
+2019-12-23 17:08:28,020 ERROR [Worker-4] - System.err - log4j:WARN Please initialize the log4j system properly.
